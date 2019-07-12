@@ -283,31 +283,6 @@ table.button:visited table a,
 table.button:active table a {
   border: 0 solid #ffae0a; }
 
-table.button.secondary table td {
-  background: #005587;
-  color: #fefefe;
-  border: 0px solid #005587; }
-
-table.button.secondary table a {
-  color: #fefefe;
-  border: 0 solid #005587; }
-
-table.button.secondary:hover table td {
-  background: #0075ba;
-  color: #fefefe; }
-
-table.button.secondary:hover table a {
-  border: 0 solid #0075ba; }
-
-table.button.secondary:hover table td a {
-  color: #fefefe; }
-
-table.button.secondary:active table td a {
-  color: #fefefe; }
-
-table.button.secondary table td a:visited {
-  color: #fefefe; }
-
 table.button.success table td {
   background: #009bdf;
   border: 0px solid #009bdf; }
